@@ -14,7 +14,13 @@
 4. Generate & save bills
 5. Print bills
 6. Notifies less stock in database 
----
+
+## Technologies Used
+1. Python 3.8
+2. SQL lite
+3. Tkinter
+4. HTML,CSS
+
 
 ### Installation
 
